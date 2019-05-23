@@ -3,15 +3,15 @@ Plot the coverage at some specific region from multiple bam files:
 
     ./plotCoverageExons.py [-p <geneposition>] [-o <outfile>.pdf] [-options] <bamfile1> [<bamfile2> ...]
 
-This grew over time, excuse the bad code
+This grew over time, please excuse the bad code
 
-- Uses pysam to get pile up reads covering the selected regions
-- Plots the coverage using matplotlib
-- Allows grouping of samples and other customization
+* Uses pysam to get pile up reads covering the selected regions
+* Plots the coverage using matplotlib
+* Allows grouping of samples and other customization
 
 ### Example
 
-TODO
+![example](https://github.com/RaverJay/plotCoverageExons.py/blob/master/plotCoverageExons.py)
 
 ### Full usage
 
