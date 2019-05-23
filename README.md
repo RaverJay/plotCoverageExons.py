@@ -11,7 +11,7 @@ This grew over time, please excuse the bad code
 
 ### Example
 
-![example](https://github.com/RaverJay/plotCoverageExons.py/blob/master/plotCoverageExons.py)
+![example](https://github.com/RaverJay/plotCoverageExons.py/blob/master/example.png)
 
 ### Full usage
 
