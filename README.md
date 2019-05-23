@@ -9,11 +9,11 @@ This grew over time, excuse the bad code
 - Plots the coverage using matplotlib
 - Allows grouping of samples and other customization
 
-# Example
+### Example
 
 TODO
 
-# Full usage
+### Full usage
 
     ./plotCoverageExons.py [-p <geneposition>] [-options] <bamfile1> [<bamfile2> ...]
 
