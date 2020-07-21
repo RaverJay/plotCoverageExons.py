@@ -31,3 +31,18 @@ This grew over time, please excuse the bad code
     -f                         enable samtools-like filtering of reads (default no filtering)
     -o <file>                  specify output filename and thus output format
     -P <file>                  only write coverage data to pickle file
+
+
+### Dependencies
+
+- python
+- matplotlib
+- numpy
+- pysam
+
+This list is potentially incomplete.
+
+#### Create a conda enviroment
+
+    conda env create --file ./plotCoverageExons.yaml
+    conda activate plotCoverageExons
